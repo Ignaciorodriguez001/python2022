@@ -1,4 +1,4 @@
 ---
 applications:
- - name: agentes-server
+ - name: agentes-nacho
    random-route: true
